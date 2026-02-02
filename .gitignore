@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+
+# Icarus Verilog simulation outputs
+*.out
+*.vcd
+*.vvp
+
+# Log files
+*.log
